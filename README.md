@@ -1,2 +1,1 @@
-# FOC-Day1
-FOC DAY1
+FOC
